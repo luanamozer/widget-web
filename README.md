@@ -37,6 +37,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias :
 - Tailwind css
 - NodeJs
 - Express
+- Jest(Testes unitários)
 - Prisma
 - Vercel
 - Vite

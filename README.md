@@ -5,7 +5,8 @@
 
 Projeto **Widget** é uma aplicação Web de registros de feedbacks, foi feito a integração do front-end com back-end da aplicação, sendo uma aplicação de ponta a ponta. Desenvolvida na semana **Return** trilha Impulse promovido pela **Rocketseat**, com intuito de levar o conhecimento para o próximo nivel, adquirindo e treinando novas habilidades.
 
-## 🔗 <a href=“https://widget-web-eight.vercel.app/“>Acesse Widget aqui</a>
+## 🔗 Acessar [Widget](https://widget-web-eight.vercel.app/)
+
 ---
 <h3>
  <p>Tela inicial</p>

@@ -14,7 +14,7 @@ Projeto **Widget** é uma aplicação Web de registros de feedbacks, foi feito a
   </h3>
   
   <h3>
-   <p>Adicionando feedback, com opção de tirar uma screenshot da tela e anexar juntamento com o feedback</p>
+   <p>Adicionando feedback, com opção de tirar uma screenshot da tela e anexar juntamente com o feedback</p>
    <img src="https://i.imgur.com/svSWA3o.png">
   </h3>
   
